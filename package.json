@@ -1,0 +1,22 @@
+{
+  "name": "social-timeline",
+  "version": "1.0.0",
+  "description": "A generated timeline based on your social profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "social",
+    "timeline",
+    "feed"
+  ],
+  "author": "Sean Clayton",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.9.5",
+    "passport": "^0.2.1",
+    "redwrap": "0.0.4",
+    "social-api": "0.0.9"
+  }
+}
