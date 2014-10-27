@@ -6,6 +6,7 @@
   "scripts": {
     "test": "test"
   },
+  "repository": "https://github.com/sean-clayton/node-social-timeline.js",
   "keywords": [
     "social",
     "timeline",
@@ -15,8 +16,11 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.9.5",
-    "passport": "^0.2.1",
+    "fbgraph": "^0.3.0",
+    "googleapis": "^1.0.19",
+    "instagram-node": "^0.5.1",
     "redwrap": "0.0.4",
-    "social-api": "0.0.9"
+    "social-api": "0.0.9",
+    "twitter": "^0.2.12"
   }
 }
