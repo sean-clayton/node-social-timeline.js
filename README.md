@@ -1,4 +1,4 @@
-[![](https://api.travis-ci.org/sean-clayton/node-social-timeline.js.svg)](https://travis-ci.org/sean-clayton/node-social-timeline.js/jobs/39182113#)
+[![](https://api.travis-ci.org/sean-clayton/node-social-timeline.js.svg)](https://travis-ci.org/sean-clayton/node-social-timeline.js)
 
 # Squeak
 ## A Social Timeline written in Node.js
