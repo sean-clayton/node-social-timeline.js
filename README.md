@@ -1,4 +1,4 @@
-[![](https://api.travis-ci.org/sean-clayton/node-social-timeline.js.svg)](https://travis-ci.org/sean-clayton/node-social-timeline.js)
+[![Build Status](https://travis-ci.org/sean-clayton/node-social-timeline.js.svg?branch=dev)](https://travis-ci.org/sean-clayton/node-social-timeline.js)
 
 # Squeak
 ## A Social Timeline written in Node.js
@@ -12,6 +12,7 @@
 - Twitter
 - Google+
 - Reddit
+- Steam
 - Most RSS feeds
 
 ### Usage
