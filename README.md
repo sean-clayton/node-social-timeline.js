@@ -1,6 +1,8 @@
 # Squeak
 ## A Social Timeline written in Node.js
 
+### THIS PROJECT IS UNDER DEVELOPMENT. I'M PUSHING TO THE DEV BRANCH BECAUSE I CAN. PLEASE WAIT UNTIL [MASTER](/sean-clayton/node-social-timeline.js/tree/master) IS UPDATED. thx :3
+
 ### Supported social networks
 
 - Facebook
