@@ -17,6 +17,6 @@
 
 ### Usage
 
-1. Include your information in `feeds.json`.
-2. Run `index.js`.
+1. Include your information in `config.json`
+2. Run `index.js`
 3. Yay.

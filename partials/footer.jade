@@ -1,0 +1,7 @@
+script(src="//code.jquery.com/jquery-1.11.1.js")
+script(src="/socket.io/socket.io.js")
+script.
+  var socket = io();
+  socket.on('google user', function(user) {
+    $('.output').html('<pre>' + JSON.stringify(user, null, 2) + '</pre>');
+  });
