@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/sean-clayton/node-social-timeline.js.svg?branch=dev)](https://travis-ci.org/sean-clayton/node-social-timeline.js)
-
+[![Codeship Status for sean-clayton/node-social-timeline.js](https://codeship.io/projects/a954ea70-40fd-0132-170b-4e4316d64dbc/status)](https://codeship.io/projects/44048)
 # Squeak
 ## A Social Timeline written in Node.js
 
